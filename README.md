@@ -5,4 +5,4 @@
 window.alert("This is alert box");
 ```
 
-https://imgur.com/sDc7d1U
+![App Screenshot](https://i.imgur.com/sDc7d1U.png)
